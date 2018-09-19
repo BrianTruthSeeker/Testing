@@ -1,1 +1,1 @@
-worker: node bot.js Testing
+worker: node bot.js Testing123-bot
